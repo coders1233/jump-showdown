@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         statusText.textContent = 'Download starting...';
         
         setTimeout(() => {
-          window.location.href = 'https://makegitagain.live/restauranttycoon3';
+          window.location.href = 'https://makegitagain.live/jumpshowdown';
         }, 500);
       }
     }
